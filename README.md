@@ -50,7 +50,7 @@ No modules.
 | [aws_availability_zones.zones](https://registry.terraform.io/providers/hashicorp/aws/5.0.1/docs/data-sources/availability_zones) | data source |
 
 ## Inputs
-
+Please use tfvars file to update the variables 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_ami"></a> [ami](#input\_ami) | ami | `string` | `""` | no |
