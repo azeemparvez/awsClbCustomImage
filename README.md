@@ -8,7 +8,7 @@ This is a sample project to test the classic load balancer deployment using terr
 
 [Terraform Installation](https://developer.hashicorp.com/terraform/downloads?product_intent=terraform)
 
-## Follow below documentation to install awscli on the same node, and configure aws cli with your programmatic access, and configure the backednd S3 with dynamodb for remoter state 
+## Follow below documentation to install awscli on the same node, configure aws cli, and the backend S3 for state & dynamodb for remoter state 
 
 [AWS CLI Installation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
